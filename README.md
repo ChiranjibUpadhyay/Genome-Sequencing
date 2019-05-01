@@ -13,7 +13,10 @@ b) The information is contained in one single line and is not continued to the n
 c) There is no blank line between information line and gene sequence. </br>
 d) The gene sequence contains only 4 characters ‘A’, ‘T’, ‘G’ and ‘C’.</br>
 
-If the file is a Fasta file then all the information from the file are stored in the database by comparing the locations with another file named "GeneDetails.txt".
+If the file is a Fasta file then all the information from the file are stored in the database by comparing the locations with another file named "GeneDetails.txt".</br>
+
+The (G+C)% is calculated as</br>
+      (G+C)% = (Count_G +  Count_C) / (Count_A + Count_T+ Count_G+ Count_C)*100
 
 # Output Screenshots::
 
