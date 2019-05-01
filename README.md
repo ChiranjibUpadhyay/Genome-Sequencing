@@ -2,7 +2,7 @@
 
 A python based Gene sequence detector in a given Fasta file containing a sequence genes.
 
-A Python GUI is developed using Tykinter which provides facility to the user to upload a Fasta file </br>
+A Python GUI is developed using Tkinter which provides facility to the user to upload a Fasta file </br>
 In this project EcoliGeneSequences.txt is the file taken </br>
 If it is not a Fasta file then it displays the message as "Not a Fasta file!!".</br>
 Else it further checks for the all other requirements for the Fasta file </br>
@@ -17,7 +17,7 @@ If the file is a Fasta file then all the information from the file are stored in
 
 # Output Screenshots::
 
-Tykinter GUI:
+Tkinter GUI:
 ![1](https://user-images.githubusercontent.com/47445363/57035600-14a4ea80-6c70-11e9-98fe-fbff411c4c12.png)
 
 Database Content:
