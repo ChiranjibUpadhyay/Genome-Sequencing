@@ -13,7 +13,12 @@ b) The information is contained in one single line and is not continued to the n
 c) There is no blank line between information line and gene sequence. </br>
 d) The gene sequence contains only 4 characters ‘A’, ‘T’, ‘G’ and ‘C’.</br>
 
-If the file is a Fasta file then all the information from the file are stored in the database by comparing the information with another file named "GeneDetails.txt".
+If the file is a Fasta file then all the information from the file are stored in the database by comparing the locations with another file named "GeneDetails.txt".
 
 # Output Screenshots::
 
+Tykinter GUI:
+![1](https://user-images.githubusercontent.com/47445363/57035600-14a4ea80-6c70-11e9-98fe-fbff411c4c12.png)
+
+Database Content:
+![2](https://user-images.githubusercontent.com/47445363/57035601-153d8100-6c70-11e9-9926-97e6c14d02f0.png)
